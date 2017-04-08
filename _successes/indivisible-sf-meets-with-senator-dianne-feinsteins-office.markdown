@@ -1,6 +1,6 @@
 ---
 title: Members of Indivisible Santa Clara Valley at Rep. Zoe Lofgren's Town Hall in
-  San Jose
+  San Jose on 3/25/17
 date: 2017-02-06 21:25:00 Z
 is featured: true
 main-image: "/uploads/032517_LofgrenTownHall.jpg"
