@@ -1,9 +1,10 @@
 ---
-title: Indivisible SF meets with Senator Dianne Feinstein's Office
+title: Members of Indivisible Santa Clara Valley at Rep. Zoe Lofgren's Town Hall in
+  San Jose
 date: 2017-02-06 21:25:00 Z
 is featured: true
-main-image: "/uploads/indivisiblesf-photo1.jpg"
+main-image: "/uploads/032517_LofgrenTownHall.jpg"
 layout: media-item
 ---
 
-Indivisible SF meets with Senator Dianne Feinstein's State Director Sean Elsbernd and Field Representative Caitlin Meyer!
+Members of Indivisible Santa Clara Valley present a "thank you" yard sign to Congresswoman Zoe Lofgren at the March 25, 2017 Town Hall in San Jose!
