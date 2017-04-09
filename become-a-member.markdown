@@ -32,8 +32,14 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
 layout: becomeAMember
 ---
 
-Members of our Indivisible Guide chapter are defined by our action and find solidarity in our shared opposition to Trump and Trumpism. Each of us explicitly reserves our individual stances on specific issues for other forums as we believe resisting Trump is more important than any single issue. We adhere to a Code of Conduct that welcomes and respects everybody.
+Indivisible Santa Clara Valley is a grassroots political action group that uses the tactics and strategies of The Indivisible Guide (www.indivisibleguide.com) to effect progressive political change. We work locally for national change, and we're all in this together because we love our country.
 
-Members of our Indivisible Guide chapter come from all kinds of backgrounds and political persuasions. Some of us are first-time activists and other have been at this for decades. We are citizens and noncitizens. Most importantly, we are all patriots that want the best for our country and are willing to work for it.
+Our goals are to: 
 
-**All are welcome.**
+1) Resist the current Regressive agenda (the Trump administration and Republican Congress) through peaceful, respectful action; 
+
+2) Focus on local, defensive Congressional advocacy; and, 
+
+3) Embrace Progressive values. 
+
+If you share our values - and live in the Santa Clara Valley or surrounding area - we hope you will join us!
