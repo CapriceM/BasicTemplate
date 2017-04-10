@@ -1,6 +1,7 @@
 ---
 title: 'Indivisible Santa Clara Valley Meetup: "We''re Connecting!"'
 date: 2017-04-09 16:30:00 Z
+published: false
 categories:
 - event
 main-image: "/uploads/shutterstock_514959637.jpg"
