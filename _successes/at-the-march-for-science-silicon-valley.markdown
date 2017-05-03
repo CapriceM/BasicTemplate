@@ -1,6 +1,7 @@
 ---
 title: At the March for Science Silicon Valley!
 date: 2017-05-03 06:18:00 Z
+is featured: true
 main-image: "/uploads/18076889_10213311327484707_5265264907364906324_o.jpg"
 ---
 
