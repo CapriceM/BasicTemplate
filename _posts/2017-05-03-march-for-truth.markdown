@@ -1,6 +1,10 @@
 ---
 title: March for Truth
 date: 2017-05-03 04:31:00 Z
+categories:
+- event
+tags:
+- march
 main-image: "/uploads/MarchforTruth-4685b5.jpg"
 event-start-date: 2017-06-03 10:00:00 Z
 Location: TBD
