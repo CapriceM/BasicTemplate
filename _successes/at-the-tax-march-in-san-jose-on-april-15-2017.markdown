@@ -3,6 +3,7 @@ title: At the Tax March in San Jose on April 15, 2017!
 date: 2017-05-03 06:26:00 Z
 tags:
 - "#taxmarch"
+is featured: true
 main-image: "/uploads/17951535_1510617185623439_6162027006262910770_n.jpg"
 ---
 
