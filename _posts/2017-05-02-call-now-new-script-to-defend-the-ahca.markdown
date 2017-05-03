@@ -5,6 +5,7 @@ categories:
 - action
 tags:
 - AHCA
+is featured: true
 main-image: "/uploads/Showing%20Gallery%20For%20Statue%20Of%20Liberty%20Wallpaper%20Widescreen.jpg"
 call-script-text: "Caller: Good morning/afternoon! Can you let me know Rep. ______’s
   position on the American Health Care Act and the MacArthur Amendment?\n\nOption
