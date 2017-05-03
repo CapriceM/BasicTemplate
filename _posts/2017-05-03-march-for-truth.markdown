@@ -7,8 +7,8 @@ tags:
 - march
 main-image: "/uploads/MarchforTruth-4685b5.jpg"
 event-start-date: 2017-06-03 10:00:00 Z
-Location: TBD
-RSVP-link: TBD
+Location: Marches are currently being planned in DC, LA and NY.
+RSVP-link: Watch this space for updates!
 ---
 
 Join the national #MarchForTruth and demand the Truth about Trump/Russia!  Marches are currently being planned in DC, LA and NY. Watch this space for more updates! 
