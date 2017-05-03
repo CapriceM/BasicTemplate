@@ -7,7 +7,7 @@ categories:
 tags:
 - call now
 - confirmation hearing
-is featured: true
+is featured: false
 call-script-text: "Hi, my name is ____, I'm a local constituent. My zip code is ___.
   I want to thank Senator/Representative _____ for supporting an independent investigation
   into Russian interference.  However, I strongly believe that we must keep the momentum
