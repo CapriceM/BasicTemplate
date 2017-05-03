@@ -1,10 +1,11 @@
 ---
 title: 'CALL NOW: NEW SCRIPT TO DEFEND THE AHCA'
-date: 2017-05-03 05:46:00 Z
+date: 2017-05-02 22:46:00 Z
 categories:
 - action
 tags:
 - AHCA
+main-image: "/uploads/Showing%20Gallery%20For%20Statue%20Of%20Liberty%20Wallpaper%20Widescreen.jpg"
 call-script-text: "Caller: Good morning/afternoon! Can you let me know Rep. ______’s
   position on the American Health Care Act and the MacArthur Amendment?\n\nOption
   1: If your Rep. opposes the AHCA\n\nStaffer: Thank you for calling. Rep. ______
