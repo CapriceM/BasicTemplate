@@ -1,6 +1,7 @@
 ---
 title: March for Science Silicon Valley
 date: 2017-04-11 15:14:00 Z
+published: false
 categories:
 - event
 main-image: "/uploads/17038960_10154288617734149_3237001690602932873_o.jpg"
