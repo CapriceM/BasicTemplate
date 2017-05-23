@@ -1,5 +1,5 @@
 ---
-title: March for Truth
+title: June 4, 2017 March for Truth
 date: 2017-05-03 04:31:00 Z
 categories:
 - event
