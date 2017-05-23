@@ -8,6 +8,9 @@ tags:
 main-image: "/uploads/MarchforTruth-4685b5.jpg"
 event-start-date: 2017-06-03 11:00:00 Z
 event-end-date: 2017-06-03 13:00:00 Z
+Location: Meet up with Indivisible Santa Clara Valley members under the American flag
+  pole on Santa Clara Street, in front of San Jose City Hall.
+RSVP-link: https://www.facebook.com/events/175701119623583/?acontext=%7B%22source%22%3A4%2C%22action_history%22%3A%22null%22%7D&source=4&action_history=null
 ---
 
 Meet up with Indivisible Santa Clara Valley members under the American flag pole on Santa Clara Street, in front of San Jose City Hall. The local San Jose march is being hosted by our friends at Indivisible East San Jose. Please consider taking the lightrail. If you drive, parking is free on the week-ends at the Fourth/St John Garage (50 N 4th St). 
