@@ -1,5 +1,6 @@
 ---
-title: 'CALL NOW: NEW SCRIPT TO DEFEND THE AHCA'
+title: 'ROUND 2: FIGHTING THE GOP HEALTH BILL IN THE SENATE WHILE HOLDING HOUSE MEMBERS
+  ACCOUNTABLE FOR THEIR VOTES'
 date: 2017-05-02 22:46:00 Z
 categories:
 - action
@@ -44,12 +45,21 @@ call-script-text: "Caller: Good morning/afternoon! Can you let me know Rep. ____
   to Rep. ______.\n\nCaller: Please do, and please take down my contact information
   to let me know when Rep. ______ has made up his/her mind. I’m eager to hear what
   he/she decides."
+RSVP-link: https://www.indivisibleguide.com/blog/gop-health-bill-senate-house-accountable-votes/?link_id=3&can_id=39a9ac25b92fcb7700b5f724574a5661&source=email-this-week-cbo-score-independent-commission-trumps-budget&email_referrer=this-week-cbo-score-independent-commission-trumps-budget___217375&email_subject=this-week-cbo-score-independent-commission-trumps-budget
 ---
 
-The House of Representatives has not given up on its efforts to repeal the Affordable Care Act. Their bill (American Health Care Act, or AHCA) will strip coverage from at least 24 million people and gut Medicaid in order to give $600 billion in tax breaks to the wealthy and corporations.
+From The Indivisiblog (www.indivisibleguide.com/blog/):
 
-[More about why the bill will harm health care consumers]
+May 4, 2017 was a day of infamy in the House of Representatives—and, no doubt, will long be remembered. On that day, Republicans eked out a narrow House floor passage of the GOP health bill. The vote occurred even though few read the bill, and it was rushed through before a non-partisan Congressional Budget Office (CBO) analysis could be prepared.
 
-With the latest addition of the MacArthur amendment, the bill is now even worse, undermining critical protections for people with pre-existing conditions. If this bill passes, millions will lose their access to coverage and care, costs will go up, and the stability of the health care system will be in jeopardy.
+We do know, however, that the bill would cause tens of millions to lose health insurance. It also would make coverage unaffordable for people most in need of care—especially those with pre-existing health conditions like cancer, heart disease, diabetes, and mental health problems. And it would take away over $800 billion in health care funds intended for the poor, transferring most of them to tax give-aways for the wealthy and special interest groups.
 
-Call your members of Congress and urge them to reject the bill to repeal the Affordable Care Act. Call or visit your members to let them know where you stand. 
+The harmful votes cast that day, and the galling Rose Garden celebration President Trump held with House Republicans immediately thereafter, must not, and will not, be forgotten or forgiven during the next two election cycles.
+
+To ensure that result, grassroots activists across the country launched a campaign to hold House Republicans accountable. The “Payback Project”—spearheaded by Indivisible, MoveOn, Town Hall Project, and Women’s March—is making sure House members can’t hide from this vote or from their constituents. Voters will repeatedly be reminded how their representative jeopardized their families’ health care and lives, promoting electoral repercussions that will be intense.
+
+The bill already is opposed by larger margins than the Affordable Care Act (ACA) ever was!
+
+As these important accountability efforts move forward, it will be no less crucial for activists to focus on round two of the legislative process: Senate consideration of the health bill. Since Republicans only have a bare Senate majority, this is where our active opposition has its greatest prospects for success. We must focus like a laser beam on the biggest stakes of that debate, of which at least five concerns will arise that deserve highest-priority advocacy.
+
+[Click here](https://www.indivisibleguide.com/blog/gop-health-bill-senate-house-accountable-votes/) for the full story.... 
