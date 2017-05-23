@@ -5,7 +5,8 @@ categories:
 - event
 tags:
 - meeting
-event-end-date: 2017-06-04 00:00:00 Z
+event-start-date: 2017-06-04 17:00:00 Z
+event-end-date: 2017-06-04 18:00:00 Z
 Location: Concall
 RSVP-link: https://www.facebook.com/events/1659075817443850/?context=create&previousaction=create&ref=1&sid_create=2928931048&feed_story_type=370&action_history=[%7B%22surface%22%3A%22permalink%22%2C%22mechanism%22%3A%22surface%22%2C%22extra_data%22%3A[]%7D%2C%7B%22surface%22%3A%22create_dialog%22%2C%22mechanism%22%3A%22copy_create_dialog%22%2C%22extra_data%22%3A[]%7D]&has_source=1
 ---
